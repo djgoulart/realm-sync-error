@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "realm-expo",
+    "slug": "realm-expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
